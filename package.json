@@ -114,7 +114,7 @@
       "editor/context": [
         {
           "command": "justBlame.toggleBlame",
-          "group": "1_justBlame",
+          "group": "1_editor",
           "when": "editorIsOpen && workbench.scm.active"
         }
       ]
